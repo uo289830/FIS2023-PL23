@@ -1,0 +1,3 @@
+nombre_actividad,nombre_subtipo,fecha,duracion,localizacion,distancia,FCmax,FCmin,correo_electronico
+carrera, correr(8km/h),2023-10-25,30,Parque,5,180,70,Juan@gmail.com
+carrera, correr(8km/h),2023-9-25,30,Parque,5,190,80,Juan@gmail.com
